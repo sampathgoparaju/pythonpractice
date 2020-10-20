@@ -5,7 +5,7 @@
 a=raw_input('Enter any number:')
 b=raw_input('Enter any number:')
 
-print ('The values of the numbers are %d and %d',a and b)
+print 'The values of the numbers are %d and %d',(a,b)
 
 if a>b
     print ("Value of a is greater than b")
