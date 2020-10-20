@@ -10,9 +10,9 @@ print 'The values of the numbers are %d and %d',(a,b)
 if a>b:
     print ("Value of a is greater than b")
     print ("this is if condition")
-else 
+else: 
     print ("Value of b is greater than a")
-    print ("this is if condition")
+    print ("this is else condition")
 
 print('Second condition statements program')
 
